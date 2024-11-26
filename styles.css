@@ -1,0 +1,28 @@
+h1 {
+	font-family: 'Courier New', monospace;;
+	text-align: center;
+	color: black;
+	text-shadow: 4px 2px grey;
+
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+.IMG {
+ 	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+
+	width: 300px;
+	max-width: 50%;
+	height: auto;
+}
+
+table, th, td {
+	font-family: 'Courier New', monospace;
+
+	border: 1px solid white;
+	border-color: white;
+	width: 25%;
+	text-align: center;
+}
